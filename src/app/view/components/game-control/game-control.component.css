@@ -1,0 +1,22 @@
+button {
+    margin: 20px;
+    width: 130px;
+    height: 40px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size: large;
+    border: 0;
+    color: white;
+}
+
+.start-btn {
+    background-color: green;
+}
+
+.stop-btn {
+    background-color: red;
+}
+
+.reset-btn {
+    background-color: gray;
+}
