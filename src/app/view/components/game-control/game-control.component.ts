@@ -11,7 +11,6 @@ export class GameControlComponent implements OnInit {
   @Output() pauseCount = new EventEmitter<any>();
   @Output() resetCount = new EventEmitter<any>();
 
-  counter: number = 0;
   isCounting: boolean = false;
 
   constructor() { }
